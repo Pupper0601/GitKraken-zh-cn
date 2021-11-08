@@ -8,7 +8,7 @@
 
 大佬 github 地址： https://github.com/rogeraabbccdd/GitKraken-zh-tw
 
-![image-20211108180142739](https://pupperc.com/img/202111081801908.png)
+![image-20211108180142739](https://github.com/Pupper0601/GitKraken-zh-cn/blob/main/home.png)
 
 ## 使用方法
 
@@ -21,4 +21,4 @@
     -   Linux: `/usr/share/gitkraken/resources/app.asar.unpacked/src`
 -   开启 GitKraken ，至 Preference -> UI Customization -> Language 切换语言
 
-![image-20211108180820412](https://pupperc.com/img/202111081808614.png)
+![image-20211108180820412](https://github.com/Pupper0601/GitKraken-zh-cn/blob/main/set.png)
