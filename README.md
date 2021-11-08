@@ -14,7 +14,7 @@
 
 -   目前支援版本: 8.1.0
 -   将 原文件 `strings.json` 改名为 `strings.en.json`
--   至 [Release](https://github.com/rogeraabbccdd/GitKraken-zh-tw/releases/latest) 下载 `strings.json`
+-   至 [Release](https://github.com/Pupper0601/GitKraken-zh-cn/releases/tag/%E4%B8%AD%E6%96%87%E8%A1%A5%E4%B8%81) 下载 `strings.json`
 -   文件存放位置
     -   Windows: `%LOCALAPPDATA%\gitkraken\app-8.1.0\resources\app.asar.unpacked\src`
     -   Mac: `/Applications/GitKraken.app/Contents/Resources/app.asar.unpacked/src/strings.json`
