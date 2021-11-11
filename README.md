@@ -22,3 +22,7 @@
 -   开启 GitKraken ，至 Preference -> UI Customization -> Language 切换语言
 
 ![image-20211108180820412](https://github.com/Pupper0601/GitKraken-zh-cn/blob/main/set.png)
+
+## 关于取消更新
+GitKraken 安装后默认的快捷方式为 `updata.exe`,我们删除这个快捷方式，然后将 `****\gitkraken\app-8.1.0` 中的 `gitkrken.exe` 设置为快捷方式，这样软件就不会更新了。
+![image-20211108180820412](https://github.com/Pupper0601/GitKraken-zh-cn/blob/main/取消更新.png)
